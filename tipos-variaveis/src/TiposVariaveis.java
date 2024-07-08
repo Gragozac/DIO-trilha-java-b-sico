@@ -27,7 +27,13 @@ public class TiposVariaveis {
         /* É um tipo de dado numérico de ponto flutuante de precisão dupla (64 bits).
         Intervalo de valores: Aproximadamente ±1.79769313486231570E+308 (15 dígitos decimais */
             
-        
+        // Imprime os valores das variáveis
+        System.out.println("Idade: " + idade);
+        System.out.println("Ano: " + ano);
+        System.out.println("CEP: " + cep);
+        System.out.println("CPF: " + cpf);
+        System.out.println("Pi: " + pi);
+        System.out.println("Salário: " + salario);
 
      }
     
